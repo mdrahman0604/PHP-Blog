@@ -23,7 +23,7 @@ $most_read_articles = $stmt->fetchAll();
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet">
 
 <!-- Custom CSS -->
-<!-- <link href="css/home.css" rel="stylesheet"> -->
+<!-- <link href="css/home.css" rel="stylesheet 123"> -->
 <link type="text/css" rel="stylesheet" href="css/style.css" />
 <style>
     .bg-div {
